@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:helloworld/auth/login.dart';
+import 'package:flutter_app/auth/login.dart';
 
 class HomePage extends ConsumerWidget {
   final String title = 'Flutter Practice';

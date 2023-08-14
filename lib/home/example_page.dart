@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:helloworld/theme/app_theme.dart';
-import 'package:helloworld/theme/app_theme_provider.dart';
+import 'package:flutter_app/theme/app_theme.dart';
+import 'package:flutter_app/theme/app_theme_provider.dart';
 
 class ExamplePage extends ConsumerWidget {
   const ExamplePage({Key? key}) : super(key: key);

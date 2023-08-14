@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:helloworld/theme/app_theme.dart';
-import 'package:helloworld/theme/app_theme_provider.dart';
-import 'package:helloworld/layouts/align_demo.dart';
+import 'package:flutter_app/theme/app_theme.dart';
+import 'package:flutter_app/theme/app_theme_provider.dart';
+import 'package:flutter_app/layouts/align_demo.dart';
 
 void main() => runApp(const ProviderScope(child: MyApp()));
 

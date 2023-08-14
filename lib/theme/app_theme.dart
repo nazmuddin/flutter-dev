@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:helloworld/theme/app_colors.dart';
+import 'package:flutter_app/theme/app_colors.dart';
 
 AppColors colors(context) => Theme.of(context).extension<AppColors>()!;
 ThemeData getAppTheme(BuildContext context, bool isDarkTheme) {
